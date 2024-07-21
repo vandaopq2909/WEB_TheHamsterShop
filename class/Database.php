@@ -4,12 +4,12 @@ class Database {
         // $host = "sql313.byethost7.com";
         // $db = "b7_36199636_mydb_hamster_shop";
         // $username = "b7_36199636";
-        // $password = "zandaone";
+        // $password = "password";
 
         $host = "localhost";
         $db = "mydb_hamster_shop";
         $username = "mydb_hamster_shop_admin";
-        $password = "5mCEYeK!P5OrMGt6";
+        $password = "password";
 
         $dsn = "mysql:host=$host;dbname=$db;charset=UTF8";
 
